@@ -66,7 +66,7 @@ public class Yazlab12 {
                 tempCount++;
             }
             System.out.println("Gelen kisi sayisi: "+ x);
-            System.out.println("Yuklendi.");
+            
             //System.out.println("Yeni gelen musteri : "+ x);
             setYogunluk(getYogunluk() + x);
             System.out.println("Yogunluk: "+getYogunluk());
